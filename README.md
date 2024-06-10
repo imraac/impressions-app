@@ -24,11 +24,4 @@ The Character Viewer App is a simple React application that allows users to view
 - Upon opening the application, you will see a list of characters with their images.
 - Click on any character to view more details about that character.
 
-## Credits
-- This project was created by [Your Name].
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-# impressions-app
-# impressions-app
-# impressions
